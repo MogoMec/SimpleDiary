@@ -10,9 +10,11 @@ UI设计参考了[一本日记 ](http://1diary.me/)以及[DaxiaK/MyDiary](https:
 
 ## 运行截图
 
-![image-20210731144141377](C:\Users\Mogo\AppData\Roaming\Typora\typora-user-images\image-20210731144141377.png)
 
-![image-20210731144308622](C:\Users\Mogo\AppData\Roaming\Typora\typora-user-images\image-20210731144308622.png)
+
+![image-20210731144141377](img\image-20210731144141377.png)
+
+![image-20210731144308622](img\image-20210731144308622.png)
 
 ## 致谢
 
