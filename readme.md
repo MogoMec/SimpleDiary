@@ -12,9 +12,9 @@ UI设计参考了[一本日记 ](http://1diary.me/)以及[DaxiaK/MyDiary](https:
 
 
 
-![image-20210731144141377](img\image-20210731144141377.png)
+![image-20210731144141377.png (927×853) (raw.githubusercontent.com)](https://raw.githubusercontent.com/MogoMec/SimpleDiary/main/img/image-20210731144141377.png)
 
-![image-20210731144308622](img\image-20210731144308622.png)
+![image-20210731144308622.png (916×840) (raw.githubusercontent.com)](https://raw.githubusercontent.com/MogoMec/SimpleDiary/main/img/image-20210731144308622.png)
 
 ## 致谢
 
