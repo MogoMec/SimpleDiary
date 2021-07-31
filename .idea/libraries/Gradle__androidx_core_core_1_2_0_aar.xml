@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.core:core:1.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/transforms-2/files-2.1/5df47116837044e526e3d968340e6756/core-1.2.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/transforms-2/files-2.1/5df47116837044e526e3d968340e6756/core-1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/transforms-2/files-2.1/5df47116837044e526e3d968340e6756/core-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/transforms-2/files-2.1/5df47116837044e526e3d968340e6756/core-1.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/modules-2/files-2.1/androidx.core/core/1.2.0/8eb1782c02c4b7a6af797dab2a05266f385a1775/core-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

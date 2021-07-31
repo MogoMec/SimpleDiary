@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <EditText
+        android:id="@+id/ET_editor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:hint="今天怎么样？"
+        android:textSize="15dp"
+        android:text="无内容"
+        android:background="@color/white"
+        android:lineSpacingMultiplier="1.2"/>
+
+</ScrollView>

@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yalantis:ucrop:2.2.0-native@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/transforms-2/files-2.1/e3b7d08c791e25042085747614a8b49a/jetified-ucrop-2.2.0-native/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/transforms-2/files-2.1/3e7871401f91a66d677bdf924935d9ec/jetified-ucrop-2.2.0-native/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/transforms-2/files-2.1/e3b7d08c791e25042085747614a8b49a/jetified-ucrop-2.2.0-native/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/transforms-2/files-2.1/e3b7d08c791e25042085747614a8b49a/jetified-ucrop-2.2.0-native/res" />
+      <root url="file://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/transforms-2/files-2.1/e3b7d08c791e25042085747614a8b49a/jetified-ucrop-2.2.0-native/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/transforms-2/files-2.1/3e7871401f91a66d677bdf924935d9ec/jetified-ucrop-2.2.0-native/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/transforms-2/files-2.1/3e7871401f91a66d677bdf924935d9ec/jetified-ucrop-2.2.0-native/res" />
+      <root url="file://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/transforms-2/files-2.1/3e7871401f91a66d677bdf924935d9ec/jetified-ucrop-2.2.0-native/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/modules-2/files-2.1/com.yalantis/ucrop/2.2.0-native/764349c59bdffcc8feb1cb9d6e5290a79bb77b57/ucrop-2.2.0-native-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/modules-2/files-2.1/com.yalantis/ucrop/2.2.0-native/f2d8001359f0b42ba27d01f03f5bed28d7b1ce60/ucrop-2.2.0-native-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

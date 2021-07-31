@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:background="@mipmap/theme_bg_taki"
+    android:fitsSystemWindows="true"
+    android:id="@+id/navi_header"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/IV_navi_profile_image"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="20dp"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="50dp"
+        app:strokeColor="@color/white"
+        app:strokeWidth="2dp"
+        android:padding="2dp"
+        app:shapeAppearance="@style/CircleStyle"
+        android:src="@mipmap/ic_person_picture_default"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/TV_navi_profile_name"
+        android:layout_toRightOf="@id/IV_navi_profile_image"
+        android:layout_centerVertical="true"
+        android:text="Mogo"
+        android:textSize="30dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:shadowColor="@color/black"
+        android:shadowDx="2"
+        android:shadowDy="2"
+        android:textColor="@color/white"
+        android:shadowRadius="3"/>
+</RelativeLayout>

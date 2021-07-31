@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.haibin:calendarview:3.6.8@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/transforms-2/files-2.1/3f128f81a4c014395072fa4c3ae8d584/jetified-calendarview-3.6.8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/transforms-2/files-2.1/3f128f81a4c014395072fa4c3ae8d584/jetified-calendarview-3.6.8/res" />
+      <root url="file://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/transforms-2/files-2.1/3f128f81a4c014395072fa4c3ae8d584/jetified-calendarview-3.6.8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/modules-2/files-2.1/com.haibin/calendarview/3.6.8/4bb3b99aace0b1a3fceef5ba4b12191da6b9659c/calendarview-3.6.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/modules-2/files-2.1/com.haibin/calendarview/3.6.8/c822de73f847c0c602302ad8175b0cdedf3dbd43/calendarview-3.6.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

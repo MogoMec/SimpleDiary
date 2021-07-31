@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: info.hoang8f:android-segmented:1.0.6@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/transforms-2/files-2.1/213055b0a9bcff19f744be77ea9a64d1/jetified-android-segmented-1.0.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/transforms-2/files-2.1/213055b0a9bcff19f744be77ea9a64d1/jetified-android-segmented-1.0.6/res" />
+      <root url="file://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/transforms-2/files-2.1/213055b0a9bcff19f744be77ea9a64d1/jetified-android-segmented-1.0.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/modules-2/files-2.1/info.hoang8f/android-segmented/1.0.6/287fc51acd3ad0c19b5e1aeffa4d90811da1d424/android-segmented-1.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../edgedownload/gradle-6.8.3-all/gradle-6.8.3/caches/modules-2/files-2.1/info.hoang8f/android-segmented/1.0.6/287fc51acd3ad0c19b5e1aeffa4d90811da1d424/android-segmented-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

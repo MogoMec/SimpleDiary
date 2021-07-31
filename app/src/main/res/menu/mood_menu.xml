@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/smile" android:title="😊"/>
+    <item android:id="@+id/bigsmile" android:title="😁"/>
+    <item android:id="@+id/angry" android:title="😡"/>
+    <item android:id="@+id/tired" android:title="😫"/>
+    <item android:id="@+id/peace" android:title="😐"/>
+    <item android:id="@+id/sad" android:title="😟"/>
+</menu>
